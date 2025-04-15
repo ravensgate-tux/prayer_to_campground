@@ -56,6 +56,7 @@
 ---
 
 🃏 使用カード例：Deviant Moon Tarot「棒の4」
+
 <img src="wands_4.jpg" width="300">
 
 📝 このプロトコルはCreative Commons Attribution 4.0 International（CC BY 4.0）ライセンスのもとで公開されています。
