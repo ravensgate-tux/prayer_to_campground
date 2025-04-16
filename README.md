@@ -10,6 +10,10 @@
 - 供物（花・葉・根など）
 - 地面に描くための棒や石
 
+🃏 使用カード例：Deviant Moon Tarot「棒の4」
+
+<img src="wands_4.jpg" width="300">
+
 ---
 
 ### 🧭 手順
@@ -54,9 +58,5 @@
 この儀式は、魔術の道具がなくても、自然の中で静かに行うことができ、誰でも安全に試みることが可能です。
 
 ---
-
-🃏 使用カード例：Deviant Moon Tarot「棒の4」
-
-<img src="wands_4.jpg" width="300">
 
 📝 このプロトコルはCreative Commons Attribution 4.0 International（CC BY 4.0）ライセンスのもとで公開されています。
